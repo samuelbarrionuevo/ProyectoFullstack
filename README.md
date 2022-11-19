@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjectFullstack
 
 ## The purpose of this repository is to develop a web page that has as an application destination the field of health and will be proposed as a shift for a medical institution.
@@ -9,6 +10,7 @@
 - Provide personalized reminders.
 - Suggest specialists by geographical proximity.
 - Suggest availability of days and times by specialist.
+
 
 ### It will also allow the web page administrator to keep an orderly control of their services and patients.
 
@@ -22,6 +24,11 @@
 - Reservar turno por especialidad.
 - Brindar recordatorios personalizados.
 - Sugerir especialistas por cercanía geográfica.
-- Sugerir disponibilidad de días y horarios por especialista.
+- Sugerir disponibilidad de los días y horarios por especialista.
 
 ### Además le permitira al administrador de la página web llevar un control ordenado de sus servicios y pacientes.
+=======
+# ProyectoFullstack
+
+Correccion del titulo "Turnero Web"
+>>>>>>> f5d640bf09f0c53c3f745f70a0e3c8faa34b1a6c
